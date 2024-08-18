@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#Lovelace Transformer
+
+This utility is to transform a LoveLace entity card from horizontal to vertical.  This just helps me create the vertical version of a dashboard once I have created the horizontal version.
+
+ - it adds '-vert' to the image filenames
+ - transforms the top and left coordinates of each entity and conditional sub entities
+
 
 ## Getting Started
 
