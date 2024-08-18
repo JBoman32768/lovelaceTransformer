@@ -1,4 +1,4 @@
-#Lovelace Transformer
+# Lovelace Transformer
 
 This utility is to transform a LoveLace entity card from horizontal to vertical.  This just helps me create the vertical version of a dashboard once I have created the horizontal version.
 
